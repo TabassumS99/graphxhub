@@ -1,0 +1,108 @@
+/* XL Device :1200px. */
+/* @media (min-width: 1352px) and (max-width: 5000px) {
+  .banner-active .slick-dots {
+  
+  }
+
+} */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    /* .log a {
+        padding: 10px;
+        display: block;
+    } */
+   
+ 
+   /* ------ */
+  }
+  
+  /* LG Device :992px. */
+  @media (min-width: 992px) and (max-width: 1200px) {
+    /* .log a {
+        padding: 10px;
+        display: block;
+    } */
+   
+   /* ------ */
+  }
+  
+ /* Extra small Device. */
+ @media (min-width: 767px) and (max-width: 991px) {
+    .bottom-header{
+        padding: 20px;
+    }
+    .top-header p {
+	font-size: 11px;
+}
+    .top-header span {
+        padding-right: 1px;
+    }
+    .top-header {
+        padding: 5px 0px;
+    }
+    .my-contact a {
+        font-size: 16px;
+    }
+    .search {
+        display: none;
+    }
+    .navbar-toggler-icon {
+        width: 45px;
+        height: 25px;
+        color: green;
+        font-size: 28px;
+    }
+    .menu .navbar-nav .nav-link {
+        color: #808080;
+        padding: 12px 0;
+        padding-right: 30px;
+        font-size: 16px;
+    }
+    .menu .navbar-nav .nav-link {
+        padding: 12px 0;
+    }
+    .menu {
+        margin-top: 40px;
+    }
+
+
+
+
+
+
+
+
+
+    
+    /* ------ */
+   } 
+
+  /* Extra small Device. */
+  @media (min-width: 576px) and (max-width: 768px) {
+ 
+  
+   /* ------ */
+  }
+   
+  /* SM Small Device :550px. */
+  @media (min-width: 300px) and (max-width:575px) {
+  
+   /* =========   page=========== */
+
+  
+   /* ------ */
+  }
+  
+  
+  /* retina query */
+  @media only screen and (-webkit-min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min--moz-device-pixel-ratio:2) and (max-width:991.98px),only screen and (-o-min-device-pixel-ratio:2/1) and (max-width:991.98px),only screen and (min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min-resolution:192dpi) and (max-width:991.98px),only screen and (min-resolution:2dppx) and (max-width:991.98px){
+  
+ 
+   /* ------ */
+  }
+  
+  
+  @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){
+ 
+
+    /* ------ */
+  }
